@@ -1,0 +1,61 @@
+h1 {
+  color: #A555EC;
+}
+h2 {
+  color: #A555EC;
+}
+
+body {
+  background-color: #F3CCFF;
+}
+h5{
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  margin: auto;
+
+}
+
+<div class="circle"/>
+<div class="circle"/>
+<div class="circle"/>
+
+.circle {
+  width:5px;
+  height:5px;
+  border-radius:100px;
+}
+.dot {
+  width:25px;
+  height:25px;
+  border-radius:50%;
+  background-color: grey;
+  display: inline-block;
+}
+hr {
+  border-top-style: dotted;
+  border-left-style: dashed;
+  border-right-style: dashed;
+  border-top-color: grey;
+  border-bottom-color:  #F3CCFF;
+  border-right-color: #F3CCFF;
+  border-left-color: #F3CCFF;
+  border-width: 5px;
+  width: 5%;
+
+
+}
+img{
+  height: 200px;
+  background-color: red;
+}
+
+img:hover{
+  background-color: blue;
+}
+.apple {
+  background-color: green;
+}
+.circular{
+  border-radius: 500%;
+}
